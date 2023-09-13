@@ -1,0 +1,22 @@
+.overflow {
+
+    &--hidden {
+        overflow: hidden;
+    }
+
+    &--yhidden {
+        overflow-y: hidden;
+    }
+
+    &--xhidden {
+        overflow-x: hidden;
+    }
+
+    &--yscroll {
+        overflow-y: scroll;
+    }
+
+    &--xscroll {
+        overflow-x: scroll;
+    }
+}

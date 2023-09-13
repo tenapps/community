@@ -1,0 +1,99 @@
+.posture--relative {
+  position: relative;
+}
+
+.posture--absolute {
+  position: absolute;
+}
+
+.posture--static {
+  position: static;
+}
+
+.posture--sticky {
+  position: sticky;
+}
+
+.posture--fixed {
+  position: fixed;
+}
+
+.top---20 {
+  top: -20px;
+}
+
+.top---10 {
+  top: -10px;
+}
+
+.top--0 {
+  top: 0;
+}
+
+.top--10 {
+  top: 10px;
+}
+
+.top--20 {
+  top: 20px;
+}
+
+.right---20 {
+  right: -20px;
+}
+
+.right---10 {
+  right: -10px;
+}
+
+.right--0 {
+  right: 0;
+}
+
+.right--10 {
+  right: 10px;
+}
+
+.right--20 {
+  right: 20px;
+}
+
+.bottom---20 {
+  bottom: -20px;
+}
+
+.bottom---10 {
+  bottom: -10px;
+}
+
+.bottom--0 {
+  bottom: 0;
+}
+
+.bottom--10 {
+  bottom: 10px;
+}
+
+.bottom--20 {
+  bottom: 20px;
+}
+
+.left---20 {
+  left: -20px;
+}
+
+.left---10 {
+  left: -10px;
+}
+
+.left--0 {
+  left: 0;
+}
+
+.left--10 {
+  left: 10px;
+}
+
+.left--20 {
+  left: 20px;
+}

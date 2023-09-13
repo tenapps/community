@@ -1,0 +1,7 @@
+.oncross--rose {
+  cursor: pointer;
+}
+
+.oncross--not-allowed {
+  cursor: not-allowed;
+}

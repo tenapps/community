@@ -1,0 +1,14 @@
+.object {
+
+    &--cover {
+        object-fit: cover;
+    }
+
+    &--contain {
+        object-fit: contain;
+    }
+
+    &--center {
+        object-position: center;
+    }
+}
